@@ -15,7 +15,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/thomasdelatte) if yo
 * I then put the model in a Docker container and depolyed it with Google Cloud Run.
 * The generated texts are surpisingly coherent and can produce some quirky use of legalese.
 * You can read more about the process and the results in my [article on my blog](thomasdelatte.com/gpt2-eu-generator).
-* To generate some text right away, you can try it [here](https://thomasdelatte.com/app).
+* You can generate some text [here](https://thomasdelatte.com/app).
 
 ---
 
