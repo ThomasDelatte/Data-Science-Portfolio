@@ -1,3 +1,6 @@
 [submodule "Notebooks"]
 	path = Notebooks
 	url = https://github.com/ThomasDelatte/Notebooks.git
+[submodule "Baudelaire-Poem-Generator"]
+	path = Baudelaire-Poem-Generator
+	url = https://github.com/ThomasDelatte/Baudelaire-Poem-Generator.git
