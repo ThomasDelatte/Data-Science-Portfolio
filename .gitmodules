@@ -4,3 +4,6 @@
 [submodule "Baudelaire-Poem-Generator"]
 	path = Baudelaire-Poem-Generator
 	url = https://github.com/ThomasDelatte/Baudelaire-Poem-Generator.git
+[submodule "gpt2-eu-acts"]
+	path = gpt2-eu-acts
+	url = https://github.com/ThomasDelatte/gpt2-eu-acts.git
