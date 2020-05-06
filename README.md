@@ -15,10 +15,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/thomasdelatte) if yo
 * This is my own project using image recognition methods in practice. This is a site where user ... and machine learning models (based on GPT-2) will generate EU... using [GPT2-simple](https://github.com/minimaxir/gpt-2-simple).
 * To generate some text right away, you can try it [here](https://thomasdelatte.com/app).
 
-<figure class="image">
-  <img src="https://miro.medium.com/max/1400/1*MqyjtyN3EYRQ4WVmUm1z2Q.gif" alt="openAI Gif">
-  <figcaption>Credit: Ben Barry / OpenAI</figcaption>
-</figure>
+<img src="https://miro.medium.com/max/1400/1*MqyjtyN3EYRQ4WVmUm1z2Q.gif" alt="openAI Gif">
 
 ---
 
@@ -37,7 +34,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/thomasdelatte) if yo
 ### [Clustering with K-means](https://github.com/ThomasDelatte/Notebooks/blob/master/Clustering_with_K-Means.ipynb)
 * A visual introduction and  to the K-Means algorithm. 
 * For a more visually pleasing experience, you can find my article [here](https://thomasdelatte.com/2020/04/kmeans/).
-<img src="images/clustering.png" width="500">
+<img src="images/clustering.png" width="700">
 
 ---
 
@@ -49,21 +46,18 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/thomasdelatte) if yo
 ---
 
 ### [Animals from the QuickDraw Dataset](https://github.com/ThomasDelatte/Notebooks/blob/master/QuickDraw_Animals.ipynb)
-* blaba
-* blabka
-<img src="images/quickdraw.png" width="500">
+* To be completed.
+<img src="images/quickdraw.png" align="left" width="300">
 
 ---
 
 ### [Facial Keypoints Detection (Kaggle)](https://github.com/ThomasDelatte/Notebooks/blob/master/Facial_Keypoints_Recognition.ipynb)
-* blaba
-* blabka
-<img src="images/keypoints.png" width="500">
+* To be completed.
+<img src="images/keypoints.png" align="right" width="300">
 
 --- 
 
 ### [House Prices (Kaggle)](https://github.com/ThomasDelatte/Notebooks/blob/master/House_Prices_Kaggle.ipynb)
-* blaba
-* blabka
+* To be completed.
 
 --- 
