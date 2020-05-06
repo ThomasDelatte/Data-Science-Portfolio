@@ -47,13 +47,13 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/thomasdelatte) if yo
 
 ### [Animals from the QuickDraw Dataset](https://github.com/ThomasDelatte/Notebooks/blob/master/QuickDraw_Animals.ipynb)
 * To be completed.
-<img src="images/quickdraw.png" align="left" width="300">
+<img src="images/quickdraw.png" width="300">
 
 ---
 
 ### [Facial Keypoints Detection (Kaggle)](https://github.com/ThomasDelatte/Notebooks/blob/master/Facial_Keypoints_Recognition.ipynb)
 * To be completed.
-<img src="images/keypoints.png" align="right" width="300">
+<img src="images/keypoints.png" width="300">
 
 --- 
 
