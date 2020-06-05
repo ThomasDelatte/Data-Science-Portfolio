@@ -24,11 +24,14 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/thomasdelatte) if yo
 * Inspired by the [famous Karpathy's article](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), I used a charRNN model with Tensorflow 2 and Keras to generate Baudelaire-like poems.
 ---
 
-### [Handwritten text recognition](https://github.com/thomasdelatte/handwritten-text-recognizer)
-* In development.
----
-
 ## Micro Projects
+
+### [Sentiment Analysis on HK Protests Tweets](https://github.com/ThomasDelatte/Notebooks/blob/master/twitter-sentiment-analysis.ipynb)
+* I scraped 45,000 tweets with Tweepy and preprocessed them.
+* Word cloud, sentiment analysis with NLTK and exploratory analysis of the data.
+<img src="images/timeseries.png" width="300">
+
+---
 
 ### [Clustering with K-means](https://github.com/ThomasDelatte/Notebooks/blob/master/Clustering_with_K-Means.ipynb)
 * A visual introduction and  to the K-Means algorithm. 
