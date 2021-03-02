@@ -2,7 +2,7 @@
  
 A repository of the projects I worked on or currently working on. It is updated regularly. Click on the projects' titles to see the full analysis and code.
 
-For a more pleasant experience for browsing the portfolio and for reading my articles, check out [thomasdelatte.com](https://thomasdelatte.com).
+For a more pleasant experience for browsing the portfolio and for reading articles on these projects, check out [thomasdelatte.com](https://thomasdelatte.com).
 
 Please contact me on [Linkedin](https://www.linkedin.com/in/thomasdelatte) if you are looking to hire a data scientist.
 
@@ -24,14 +24,14 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/thomasdelatte) if yo
 * Inspired by the [famous Karpathy's article](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), I used a charRNN model with Tensorflow 2 and Keras to generate Baudelaire-like poems.
 ---
 
-## Micro Projects
-
 ### [Sentiment Analysis on HK Protests Tweets](https://github.com/ThomasDelatte/Notebooks/blob/master/twitter-sentiment-analysis.ipynb)
 * I scraped 45,000 tweets with Tweepy and preprocessed them.
 * Word cloud, sentiment analysis with NLTK and exploratory analysis of the data.
 <img src="images/timeseries.png" width="300">
 
 ---
+
+## Micro Projects
 
 ### [Clustering with K-means](https://github.com/ThomasDelatte/Notebooks/blob/master/Clustering_with_K-Means.ipynb)
 * A visual introduction and  to the K-Means algorithm. 
