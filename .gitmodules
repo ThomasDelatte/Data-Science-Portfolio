@@ -7,3 +7,6 @@
 [submodule "gpt2-eu-acts"]
 	path = gpt2-eu-acts
 	url = https://github.com/ThomasDelatte/gpt2-eu-acts.git
+[submodule "clustering-ethereum-addresses"]
+	path = clustering-ethereum-addresses
+	url = https://github.com/ThomasDelatte/ethereum-analytics.git
