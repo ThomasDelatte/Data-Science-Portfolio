@@ -19,6 +19,14 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/thomasdelatte) if yo
 
 ---
 
+### [Clustering the Ethereum Address Space](https://github.com/ThomasDelatte/ethereum-analytics)
+* On the Ethereum blockchain, addresses are unique identifiers that leave traces as publicly available transactional data.
+* I built a dataset around Ethereum addresses and 28 relevant features from multiple sources: [Google BigQuery dataset](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics), etherscan.io public API, labels from a Kaggle dataset as well as manually added labels.
+* I attempt to create meaningful categories of users (Miners, Exchanges,...) by using K-Means clustering algorithm.
+* A small percentage of labeled addresses in the dataset allows me to re-cluster the data to leverage this information, using a [constrained version of the K-Means algorithm](https://github.com/Behrouz-Babaki/COP-Kmeans).
+
+---
+
 ### [Baudelaire Poem Generator](https://github.com/thomasdelatte/baudelaire-poem-generator)
 * I scraped all 181 Baudelaire's poems from [poesie-francaise.fr](https://www.poesie-francaise.fr/poemes-charles-baudelaire/) using BeautifulSoup.
 * Inspired by the [famous Karpathy's article](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), I used a charRNN model with Tensorflow 2 and Keras to generate Baudelaire-like poems.
